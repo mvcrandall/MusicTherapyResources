@@ -5,6 +5,6 @@ tags: [about, Music Therapy, MT, videos]
 date: 2018-04-29
 ---
 
-<img src="{{site.baseurl}}/assets/img/Photo3 copy.png">
+<a href="https://www.powtoon.com/my-powtoons/#/" target="_blank"><img src="{{site.baseurl}}/assets/img/photo3 copy.png"></a>
 <a href="https://www.powtoon.com/my-powtoons/#/" target="_blank"><center>What Is Music Therapy</center></a>
 
