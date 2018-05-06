@@ -1,0 +1,17 @@
+# Site navigation links
+
+- title: Home #<img src="/assets/img/homephoto.png">
+  url: /
+
+- title: About
+  url: /about/
+
+- title: Videos
+  url: /Videos/
+
+- title: Infographics
+  url: /infographics/
+
+- title: Links
+  url: /links/
+
