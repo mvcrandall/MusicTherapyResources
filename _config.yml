@@ -4,7 +4,7 @@ bio:            'A collection of Music Therapy resources and information'
 description:    "A collection of Music Therapy resources for professionals and students"
 picture:        'assets/img/photo3 copy.png'
 locale:         en_US
-#url:            
+url:            https://mvcrandall.github.io/MusicTherapyResources//
 
 
 # Jekyll
@@ -61,7 +61,7 @@ soundcloud: mvdolan
 
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
